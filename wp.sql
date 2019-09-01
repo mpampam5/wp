@@ -11,7 +11,7 @@
  Target Server Version : 50532
  File Encoding         : 65001
 
- Date: 21/07/2019 23:50:52
+ Date: 01/09/2019 23:24:15
 */
 
 SET NAMES utf8mb4;
@@ -325,7 +325,7 @@ CREATE TABLE `users`  (
 -- ----------------------------
 -- Records of users
 -- ----------------------------
-INSERT INTO `users` VALUES (6, 'Muhammad', 'Irfan ibnu', 'mpampam@mail.com', '39843890432', 'admin', '$2y$10$OiKFc5yEnsVuYl7OdphZauWkdhtP7kb3iYdt2nPlCpwaWjKfM7ISC', '20190311221640', NULL, '2019-07-18 09:42:49', '2019-03-11 22:16:40', '2019-06-22 02:17:09', 'y');
+INSERT INTO `users` VALUES (6, 'Muhammad', 'Irfan ibnu', 'mpampam@mail.com', '39843890432', 'admin', '$2y$10$OiKFc5yEnsVuYl7OdphZauWkdhtP7kb3iYdt2nPlCpwaWjKfM7ISC', '20190311221640', NULL, '2019-09-01 23:18:23', '2019-03-11 22:16:40', '2019-06-22 02:17:09', 'y');
 INSERT INTO `users` VALUES (8, 'sang', 'operator', 'operator@mail.com', '872873827832', 'operator', '$2y$10$U0AwKvpSHAe2uWIJ7MkD8u.kGt6izIRZ/Kj6GeidFvCaH/ql1kOQO', '20190313222009', NULL, '2019-06-22 02:19:52', '2019-03-13 22:20:10', '2019-06-22 02:22:33', 'n');
 
 -- ----------------------------
